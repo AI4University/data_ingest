@@ -1,5 +1,5 @@
 # Horizon Work Programmes Ingest
-Jupyter Notebook for automatize the dataset creation for the Horizon Work Programmes
+Jupyter Notebook for the dataset creation for the Horizon Work Programmes
 
 **Two Options of Use:**
 * Enabling the loop:
