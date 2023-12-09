@@ -1,0 +1,3631 @@
+[
+	{
+		"title": "agricultural sciences",
+		"subtitles": [
+			{
+				"title": "agricultural biotechnology",
+				"subtitles": [
+					{
+						"title": "agricultural genetics",
+						"subtitles": [
+							{
+								"title": "livestock cloning"
+							},
+							{
+								"title": "plant cloning"
+							}
+						]
+					},
+					{
+						"title": "biomass"
+					},
+					{
+						"title": "marker assisted selection"
+					}
+				]
+			},
+			{
+				"title": "agriculture, forestry, and fisheries",
+				"subtitles": [
+					{
+						"title": "agriculture",
+						"subtitles": [
+							{
+								"title": "agronomy",
+								"subtitles": [
+									{
+										"title": "plant breeding"
+									},
+									{
+										"title": "plant protection"
+									}
+								]
+							},
+							{
+								"title": "grains and oilseeds",
+								"subtitles": [
+									{
+										"title": "cereals"
+									},
+									{
+										"title": "legumes"
+									},
+									{
+										"title": "oilseeds"
+									}
+								]
+							},
+							{
+								"title": "horticulture",
+								"subtitles": [
+									{
+										"title": "arboriculture"
+									},
+									{
+										"title": "floriculture"
+									},
+									{
+										"title": "fruit growing"
+									},
+									{
+										"title": "urban horticulture"
+									},
+									{
+										"title": "vegetable growing",
+										"subtitles": [
+											{
+												"title": "root crops"
+											}
+										]
+									},
+									{
+										"title": "viticulture"
+									}
+								]
+							},
+							{
+								"title": "industrial crops",
+								"subtitles": [
+									{
+										"title": "fodder"
+									}
+								]
+							},
+							{
+								"title": "sustainable agriculture"
+							}
+						]
+					},
+					{
+						"title": "fisheries"
+					},
+					{
+						"title": "forestry",
+						"subtitles": [
+							{
+								"title": "silviculture",
+								"subtitles": [
+									{
+										"title": "coppicing"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "animal and dairy science",
+				"subtitles": [
+					{
+						"title": "apiculture"
+					},
+					{
+						"title": "dairy"
+					},
+					{
+						"title": "domestic animals",
+						"subtitles": [
+							{
+								"title": "animal husbandry",
+								"subtitles": [
+									{
+										"title": "animal feed"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "other agricultural sciences"
+			},
+			{
+				"title": "veterinary sciences"
+			}
+		]
+	},
+	{
+		"title": "engineering and technology",
+		"subtitles": [
+			{
+				"title": "chemical engineering",
+				"subtitles": [
+					{
+						"title": "biochemical engineering"
+					},
+					{
+						"title": "chemical process engineering"
+					},
+					{
+						"title": "separation technologies",
+						"subtitles": [
+							{
+								"title": "desalination",
+								"subtitles": [
+									{
+										"title": "electrodialysis"
+									},
+									{
+										"title": "reverse osmosis"
+									}
+								]
+							},
+							{
+								"title": "distillation"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "civil engineering",
+				"subtitles": [
+					{
+						"title": "architecture engineering",
+						"subtitles": [
+							{
+								"title": "sustainable architecture",
+								"subtitles": [
+									{
+										"title": "sustainable building"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "construction engineering"
+					},
+					{
+						"title": "structural engineering",
+						"subtitles": [
+							{
+								"title": "earthquake engineering",
+								"subtitles": [
+									{
+										"title": "base isolation"
+									},
+									{
+										"title": "seismic loading"
+									}
+								]
+							},
+							{
+								"title": "hydraulic engineering"
+							},
+							{
+								"title": "structural health monitoring"
+							}
+						]
+					},
+					{
+						"title": "transportation engineering",
+						"subtitles": [
+							{
+								"title": "airport engineering"
+							},
+							{
+								"title": "highway engineering"
+							},
+							{
+								"title": "port and harbor engineering"
+							},
+							{
+								"title": "railroad engineering"
+							}
+						]
+					},
+					{
+						"title": "urban engineering",
+						"subtitles": [
+							{
+								"title": "smart cities"
+							}
+						]
+					},
+					{
+						"title": "water engineering",
+						"subtitles": [
+							{
+								"title": "coastal and estuarine hydraulics"
+							},
+							{
+								"title": "irrigation"
+							},
+							{
+								"title": "ocean engineering"
+							},
+							{
+								"title": "urban drainage"
+							},
+							{
+								"title": "water supply systems"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "electrical engineering, electronic engineering, information engineering",
+				"subtitles": [
+					{
+						"title": "electrical engineering",
+						"subtitles": [
+							{
+								"title": "electric energy"
+							},
+							{
+								"title": "piezoelectrics"
+							},
+							{
+								"title": "power engineering",
+								"subtitles": [
+									{
+										"title": "electric power distribution"
+									},
+									{
+										"title": "electric power generation",
+										"subtitles": [
+											{
+												"title": "combined heat and power"
+											}
+										]
+									},
+									{
+										"title": "electric power transmission"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "electronic engineering",
+						"subtitles": [
+							{
+								"title": "analogue electronics"
+							},
+							{
+								"title": "computer hardware",
+								"subtitles": [
+									{
+										"title": "computer processors"
+									},
+									{
+										"title": "quantum computers"
+									},
+									{
+										"title": "supercomputers"
+									}
+								]
+							},
+							{
+								"title": "control engineering"
+							},
+							{
+								"title": "control systems",
+								"subtitles": [
+									{
+										"title": "home automation"
+									}
+								]
+							},
+							{
+								"title": "digital electronics"
+							},
+							{
+								"title": "robotics",
+								"subtitles": [
+									{
+										"title": "autonomous robots",
+										"subtitles": [
+											{
+												"title": "drones"
+											}
+										]
+									},
+									{
+										"title": "cognitive robots"
+									},
+									{
+										"title": "soft robotics"
+									},
+									{
+										"title": "swarm robotics"
+									}
+								]
+							},
+							{
+								"title": "sensors",
+								"subtitles": [
+									{
+										"title": "biosensors"
+									},
+									{
+										"title": "optical sensors"
+									},
+									{
+										"title": "smart sensors"
+									}
+								]
+							},
+							{
+								"title": "signal processing",
+								"subtitles": [
+									{
+										"title": "compressed sensing"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "information engineering",
+						"subtitles": [
+							{
+								"title": "telecommunications",
+								"subtitles": [
+									{
+										"title": "mobile phones"
+									},
+									{
+										"title": "radio technology",
+										"subtitles": [
+											{
+												"title": "bluetooth"
+											},
+											{
+												"title": "cognitive radio"
+											},
+											{
+												"title": "LiFi"
+											},
+											{
+												"title": "microwave technology"
+											},
+											{
+												"title": "mobile radio"
+											},
+											{
+												"title": "radar"
+											},
+											{
+												"title": "radio frequency"
+											},
+											{
+												"title": "satellite radio"
+											},
+											{
+												"title": "WiFi"
+											}
+										]
+									},
+									{
+										"title": "telecommunications networks",
+										"subtitles": [
+											{
+												"title": "data networks"
+											},
+											{
+												"title": "mobile network",
+												"subtitles": [
+													{
+														"title": "4G"
+													},
+													{
+														"title": "5G"
+													},
+													{
+														"title": "fixed wireless network"
+													}
+												]
+											},
+											{
+												"title": "optical networks",
+												"subtitles": [
+													{
+														"title": "fiber-optic network"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "environmental biotechnology",
+				"subtitles": [
+					{
+						"title": "bioremediation",
+						"subtitles": [
+							{
+								"title": "bioleaching"
+							},
+							{
+								"title": "bioreactors"
+							},
+							{
+								"title": "compost"
+							},
+							{
+								"title": "phytoremediation"
+							}
+						]
+					},
+					{
+						"title": "biosensing"
+					}
+				]
+			},
+			{
+				"title": "environmental engineering",
+				"subtitles": [
+					{
+						"title": "air pollution engineering"
+					},
+					{
+						"title": "carbon capture engineering"
+					},
+					{
+						"title": "energy and fuels",
+						"subtitles": [
+							{
+								"title": "energy conversion"
+							},
+							{
+								"title": "fossil energy",
+								"subtitles": [
+									{
+										"title": "coal"
+									},
+									{
+										"title": "natural gas"
+									},
+									{
+										"title": "petroleum"
+									}
+								]
+							},
+							{
+								"title": "fuel cells"
+							},
+							{
+								"title": "liquid fuels"
+							},
+							{
+								"title": "nuclear energy"
+							},
+							{
+								"title": "renewable energy",
+								"subtitles": [
+									{
+										"title": "geothermal energy"
+									},
+									{
+										"title": "hybrid energy"
+									},
+									{
+										"title": "hydroelectricity",
+										"subtitles": [
+											{
+												"title": "marine energy",
+												"subtitles": [
+													{
+														"title": "tidal energy"
+													},
+													{
+														"title": "wave power"
+													}
+												]
+											}
+										]
+									},
+									{
+										"title": "hydrogen energy"
+									},
+									{
+										"title": "solar energy",
+										"subtitles": [
+											{
+												"title": "concentrated solar power"
+											},
+											{
+												"title": "photovoltaic"
+											},
+											{
+												"title": "solar thermal"
+											}
+										]
+									},
+									{
+										"title": "wind power"
+									}
+								]
+							},
+							{
+								"title": "synthetic fuels"
+							}
+						]
+					},
+					{
+						"title": "geological engineering"
+					},
+					{
+						"title": "geotechnics"
+					},
+					{
+						"title": "mining and mineral processing"
+					},
+					{
+						"title": "natural resources management",
+						"subtitles": [
+							{
+								"title": "water management"
+							}
+						]
+					},
+					{
+						"title": "remote sensing"
+					},
+					{
+						"title": "waste management",
+						"subtitles": [
+							{
+								"title": "waste treatment processes",
+								"subtitles": [
+									{
+										"title": "recycling"
+									},
+									{
+										"title": "remanufacturing"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "water treatment processes",
+						"subtitles": [
+							{
+								"title": "drinking water treatment processes"
+							},
+							{
+								"title": "wastewater treatment processes"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "industrial biotechnology",
+				"subtitles": [
+					{
+						"title": "biomaterials",
+						"subtitles": [
+							{
+								"title": "biofuels"
+							},
+							{
+								"title": "bioplastics",
+								"subtitles": [
+									{
+										"title": "polyhydroxyalkanoates"
+									},
+									{
+										"title": "polylactic acid"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "bioprocessing technologies",
+						"subtitles": [
+							{
+								"title": "fermentation"
+							}
+						]
+					},
+					{
+						"title": "metabolic engineering"
+					}
+				]
+			},
+			{
+				"title": "materials engineering",
+				"subtitles": [
+					{
+						"title": "ceramics"
+					},
+					{
+						"title": "coating and films"
+					},
+					{
+						"title": "colors"
+					},
+					{
+						"title": "composites",
+						"subtitles": [
+							{
+								"title": "biocomposites"
+							},
+							{
+								"title": "carbon fibers"
+							}
+						]
+					},
+					{
+						"title": "crystals"
+					},
+					{
+						"title": "fibers"
+					},
+					{
+						"title": "liquid crystals"
+					},
+					{
+						"title": "metallurgy"
+					},
+					{
+						"title": "nanocomposites"
+					},
+					{
+						"title": "synthetic dyes"
+					},
+					{
+						"title": "textiles"
+					},
+					{
+						"title": "woodworking"
+					}
+				]
+			},
+			{
+				"title": "mechanical engineering",
+				"subtitles": [
+					{
+						"title": "applied mechanics"
+					},
+					{
+						"title": "manufacturing engineering",
+						"subtitles": [
+							{
+								"title": "additive manufacturing"
+							},
+							{
+								"title": "product engineering"
+							},
+							{
+								"title": "subtractive manufacturing"
+							}
+						]
+					},
+					{
+						"title": "mechatronics"
+					},
+					{
+						"title": "thermodynamic engineering",
+						"subtitles": [
+							{
+								"title": "heat engineering"
+							}
+						]
+					},
+					{
+						"title": "tribology",
+						"subtitles": [
+							{
+								"title": "lubrication"
+							}
+						]
+					},
+					{
+						"title": "vehicle engineering",
+						"subtitles": [
+							{
+								"title": "aerospace engineering",
+								"subtitles": [
+									{
+										"title": "aeronautical engineering"
+									},
+									{
+										"title": "aircraft",
+										"subtitles": [
+											{
+												"title": "rotorcraft"
+											}
+										]
+									},
+									{
+										"title": "astronautical engineering",
+										"subtitles": [
+											{
+												"title": "spacecraft"
+											}
+										]
+									},
+									{
+										"title": "satellite technology"
+									}
+								]
+							},
+							{
+								"title": "automotive engineering",
+								"subtitles": [
+									{
+										"title": "autonomous vehicles"
+									},
+									{
+										"title": "drive by wire"
+									}
+								]
+							},
+							{
+								"title": "naval engineering",
+								"subtitles": [
+									{
+										"title": "sea vessels"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "medical engineering",
+				"subtitles": [
+					{
+						"title": "diagnostic imaging",
+						"subtitles": [
+							{
+								"title": "computed tomography"
+							},
+							{
+								"title": "magnetic resonance imaging"
+							},
+							{
+								"title": "x-ray radiography"
+							}
+						]
+					},
+					{
+						"title": "medical laboratory technology",
+						"subtitles": [
+							{
+								"title": "diagnostic technologies"
+							},
+							{
+								"title": "laboratory samples analysis"
+							}
+						]
+					},
+					{
+						"title": "wearable medical technology"
+					}
+				]
+			},
+			{
+				"title": "nanotechnology",
+				"subtitles": [
+					{
+						"title": "nano-materials",
+						"subtitles": [
+							{
+								"title": "bulk nanostructured materials"
+							},
+							{
+								"title": "nanocrystals"
+							},
+							{
+								"title": "two-dimensional nanostructures",
+								"subtitles": [
+									{
+										"title": "graphene"
+									},
+									{
+										"title": "silicene"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "nano-processes"
+					},
+					{
+						"title": "nanoelectromechanical systems"
+					},
+					{
+						"title": "nanoelectronics"
+					},
+					{
+						"title": "nanophotonics"
+					}
+				]
+			},
+			{
+				"title": "other engineering and technologies",
+				"subtitles": [
+					{
+						"title": "food technology",
+						"subtitles": [
+							{
+								"title": "food packaging"
+							},
+							{
+								"title": "food safety"
+							}
+						]
+					},
+					{
+						"title": "microtechnology",
+						"subtitles": [
+							{
+								"title": "lab on a chip"
+							},
+							{
+								"title": "molecular engineering"
+							},
+							{
+								"title": "organ on a chip"
+							}
+						]
+					},
+					{
+						"title": "nuclear engineering",
+						"subtitles": [
+							{
+								"title": "nuclear waste management"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "humanities",
+		"subtitles": [
+			{
+				"title": "arts",
+				"subtitles": [
+					{
+						"title": "architectural design"
+					},
+					{
+						"title": "art history"
+					},
+					{
+						"title": "modern and contemporary art",
+						"subtitles": [
+							{
+								"title": "cinematography"
+							},
+							{
+								"title": "radio and television"
+							}
+						]
+					},
+					{
+						"title": "musicology",
+						"subtitles": [
+							{
+								"title": "ethnomusicology"
+							},
+							{
+								"title": "popular music studies"
+							}
+						]
+					},
+					{
+						"title": "performing arts",
+						"subtitles": [
+							{
+								"title": "dramaturgy"
+							}
+						]
+					},
+					{
+						"title": "visual arts"
+					}
+				]
+			},
+			{
+				"title": "history and archaeology",
+				"subtitles": [
+					{
+						"title": "archaeology",
+						"subtitles": [
+							{
+								"title": "archaeometry"
+							},
+							{
+								"title": "bioarchaeology"
+							},
+							{
+								"title": "ethnoarchaeology"
+							},
+							{
+								"title": "underwater archaeology"
+							}
+						]
+					},
+					{
+						"title": "history",
+						"subtitles": [
+							{
+								"title": "ancient history"
+							},
+							{
+								"title": "contemporary history"
+							},
+							{
+								"title": "medieval history"
+							},
+							{
+								"title": "modern history"
+							},
+							{
+								"title": "prehistory"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "languages and literature",
+				"subtitles": [
+					{
+						"title": "general language studies"
+					},
+					{
+						"title": "linguistics",
+						"subtitles": [
+							{
+								"title": "phonetics"
+							},
+							{
+								"title": "phonology"
+							},
+							{
+								"title": "sign language"
+							}
+						]
+					},
+					{
+						"title": "literature studies",
+						"subtitles": [
+							{
+								"title": "history of literature"
+							},
+							{
+								"title": "literary genres",
+								"subtitles": [
+									{
+										"title": "essays",
+										"subtitles": [
+											{
+												"title": "science fiction"
+											}
+										]
+									}
+								]
+							},
+							{
+								"title": "literary theory",
+								"subtitles": [
+									{
+										"title": "literary criticism"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "other humanities",
+				"subtitles": [
+					{
+						"title": "library sciences",
+						"subtitles": [
+							{
+								"title": "digital humanities"
+							},
+							{
+								"title": "knowledge organization"
+							},
+							{
+								"title": "public libraries"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "philosophy, ethics and religion",
+				"subtitles": [
+					{
+						"title": "ethics",
+						"subtitles": [
+							{
+								"title": "ethical principles"
+							},
+							{
+								"title": "ethical theories"
+							}
+						]
+					},
+					{
+						"title": "philosophy",
+						"subtitles": [
+							{
+								"title": "epistemology"
+							},
+							{
+								"title": "history of philosophy",
+								"subtitles": [
+									{
+										"title": "ancient philosophy"
+									},
+									{
+										"title": "contemporary philosophy"
+									},
+									{
+										"title": "medieval philosophy"
+									},
+									{
+										"title": "modern philosophy"
+									}
+								]
+							},
+							{
+								"title": "metaphysics",
+								"subtitles": [
+									{
+										"title": "teleology"
+									}
+								]
+							},
+							{
+								"title": "philosophy of language"
+							},
+							{
+								"title": "political philosophy"
+							}
+						]
+					},
+					{
+						"title": "religions",
+						"subtitles": [
+							{
+								"title": "christianity"
+							},
+							{
+								"title": "eastern religions"
+							},
+							{
+								"title": "islam",
+								"subtitles": [
+									{
+										"title": "history of islam"
+									},
+									{
+										"title": "islamic schools"
+									},
+									{
+										"title": "muslim culture"
+									},
+									{
+										"title": "muslim societies"
+									}
+								]
+							},
+							{
+								"title": "judaism"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "medical and health sciences",
+		"subtitles": [
+			{
+				"title": "basic medicine",
+				"subtitles": [
+					{
+						"title": "anatomy and morphology"
+					},
+					{
+						"title": "immunology",
+						"subtitles": [
+							{
+								"title": "autoimmune diseases"
+							},
+							{
+								"title": "immunisation"
+							},
+							{
+								"title": "immunotherapy"
+							}
+						]
+					},
+					{
+						"title": "medical genetics"
+					},
+					{
+						"title": "medicinal chemistry"
+					},
+					{
+						"title": "neurology",
+						"subtitles": [
+							{
+								"title": "amyotrophic lateral sclerosis"
+							},
+							{
+								"title": "dementia",
+								"subtitles": [
+									{
+										"title": "alzheimer"
+									}
+								]
+							},
+							{
+								"title": "epilepsy"
+							},
+							{
+								"title": "multiple sclerosis"
+							},
+							{
+								"title": "muscular dystrophies",
+								"subtitles": [
+									{
+										"title": "duchenne muscular dystrophy"
+									}
+								]
+							},
+							{
+								"title": "parkinson"
+							},
+							{
+								"title": "stroke"
+							}
+						]
+					},
+					{
+						"title": "pathology"
+					},
+					{
+						"title": "pharmacology and pharmacy",
+						"subtitles": [
+							{
+								"title": "adverse drug reactions"
+							},
+							{
+								"title": "drug discovery"
+							},
+							{
+								"title": "drug resistance",
+								"subtitles": [
+									{
+										"title": "antibiotic resistance"
+									},
+									{
+										"title": "multidrug resistance"
+									}
+								]
+							},
+							{
+								"title": "drug safety"
+							},
+							{
+								"title": "pharmaceutical drugs",
+								"subtitles": [
+									{
+										"title": "antibiotics"
+									},
+									{
+										"title": "antivirals"
+									},
+									{
+										"title": "vaccines"
+									}
+								]
+							},
+							{
+								"title": "pharmacokinetics"
+							}
+						]
+					},
+					{
+						"title": "physiology",
+						"subtitles": [
+							{
+								"title": "cytology"
+							},
+							{
+								"title": "homeostasis"
+							},
+							{
+								"title": "pathophysiology"
+							}
+						]
+					},
+					{
+						"title": "toxicology"
+					}
+				]
+			},
+			{
+				"title": "clinical medicine",
+				"subtitles": [
+					{
+						"title": "allergology",
+						"subtitles": [
+							{
+								"title": "drug allergy"
+							},
+							{
+								"title": "food allergy"
+							}
+						]
+					},
+					{
+						"title": "anaesthesiology"
+					},
+					{
+						"title": "andrology"
+					},
+					{
+						"title": "angiology",
+						"subtitles": [
+							{
+								"title": "vascular diseases",
+								"subtitles": [
+									{
+										"title": "cerebrovascular diseases"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "cardiology",
+						"subtitles": [
+							{
+								"title": "cardiovascular diseases",
+								"subtitles": [
+									{
+										"title": "arteriosclerosis"
+									},
+									{
+										"title": "cardiac arrhythmia"
+									}
+								]
+							},
+							{
+								"title": "paediatric cardiology"
+							}
+						]
+					},
+					{
+						"title": "clinical microbiology"
+					},
+					{
+						"title": "clinical neurology"
+					},
+					{
+						"title": "critical care medicine"
+					},
+					{
+						"title": "dermatology"
+					},
+					{
+						"title": "embryology"
+					},
+					{
+						"title": "emergency medicine",
+						"subtitles": [
+							{
+								"title": "graft versus host disease"
+							}
+						]
+					},
+					{
+						"title": "endocrinology",
+						"subtitles": [
+							{
+								"title": "diabetes",
+								"subtitles": [
+									{
+										"title": "diabetic nephropathy"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "gastroenterology",
+						"subtitles": [
+							{
+								"title": "inflammatory bowel disease"
+							}
+						]
+					},
+					{
+						"title": "general medicine"
+					},
+					{
+						"title": "gerontology"
+					},
+					{
+						"title": "gynaecology",
+						"subtitles": [
+							{
+								"title": "reproductive medicine"
+							}
+						]
+					},
+					{
+						"title": "hematology"
+					},
+					{
+						"title": "hepatology"
+					},
+					{
+						"title": "integrative and complementary medicine"
+					},
+					{
+						"title": "internal medicine"
+					},
+					{
+						"title": "nephrology",
+						"subtitles": [
+							{
+								"title": "kidney diseases"
+							},
+							{
+								"title": "renal dialysis"
+							}
+						]
+					},
+					{
+						"title": "obstetrics",
+						"subtitles": [
+							{
+								"title": "childbirth"
+							},
+							{
+								"title": "fetal medicine"
+							},
+							{
+								"title": "postnatal care"
+							}
+						]
+					},
+					{
+						"title": "odontology",
+						"subtitles": [
+							{
+								"title": "dental implantology"
+							},
+							{
+								"title": "orthodontics"
+							},
+							{
+								"title": "periodontics"
+							}
+						]
+					},
+					{
+						"title": "oncology",
+						"subtitles": [
+							{
+								"title": "bladder cancer"
+							},
+							{
+								"title": "breast cancer"
+							},
+							{
+								"title": "cervical cancer"
+							},
+							{
+								"title": "colorectal cancer"
+							},
+							{
+								"title": "head and neck cancer"
+							},
+							{
+								"title": "leukemia"
+							},
+							{
+								"title": "liver cancer"
+							},
+							{
+								"title": "lung cancer"
+							},
+							{
+								"title": "pancreatic cancer"
+							},
+							{
+								"title": "prostate cancer"
+							},
+							{
+								"title": "skin cancer",
+								"subtitles": [
+									{
+										"title": "basal cells"
+									},
+									{
+										"title": "melanoma"
+									},
+									{
+										"title": "squamous cell carcinoma"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "ophthalmology",
+						"subtitles": [
+							{
+								"title": "glaucoma"
+							},
+							{
+								"title": "retinopathy"
+							},
+							{
+								"title": "strabismus"
+							}
+						]
+					},
+					{
+						"title": "orthopaedics"
+					},
+					{
+						"title": "otorhinolaryngology"
+					},
+					{
+						"title": "paediatrics"
+					},
+					{
+						"title": "peripheral vascular disease"
+					},
+					{
+						"title": "physiotherapy"
+					},
+					{
+						"title": "pneumology",
+						"subtitles": [
+							{
+								"title": "asthma"
+							},
+							{
+								"title": "tuberculosis"
+							}
+						]
+					},
+					{
+						"title": "psychiatry",
+						"subtitles": [
+							{
+								"title": "anxiety disorders"
+							},
+							{
+								"title": "obsessive-compulsive disorder"
+							},
+							{
+								"title": "posttraumatic stress disorder"
+							},
+							{
+								"title": "schizophrenia"
+							},
+							{
+								"title": "sleep disorders"
+							}
+						]
+					},
+					{
+						"title": "radiology",
+						"subtitles": [
+							{
+								"title": "nuclear medicine"
+							}
+						]
+					},
+					{
+						"title": "rheumatology"
+					},
+					{
+						"title": "surgery",
+						"subtitles": [
+							{
+								"title": "robotic surgery"
+							},
+							{
+								"title": "surgical procedures"
+							},
+							{
+								"title": "surgical specialties"
+							}
+						]
+					},
+					{
+						"title": "transplantation"
+					},
+					{
+						"title": "urology"
+					},
+					{
+						"title": "venereal diseases"
+					}
+				]
+			},
+			{
+				"title": "health sciences",
+				"subtitles": [
+					{
+						"title": "dietetics"
+					},
+					{
+						"title": "health care sciences"
+					},
+					{
+						"title": "health care services",
+						"subtitles": [
+							{
+								"title": "eHealth"
+							}
+						]
+					},
+					{
+						"title": "infectious diseases",
+						"subtitles": [
+							{
+								"title": "DNA viruses",
+								"subtitles": [
+									{
+										"title": "hepatitis B"
+									}
+								]
+							},
+							{
+								"title": "malaria"
+							},
+							{
+								"title": "RNA viruses",
+								"subtitles": [
+									{
+										"title": "coronaviruses"
+									},
+									{
+										"title": "ebola"
+									},
+									{
+										"title": "hepatitis C"
+									},
+									{
+										"title": "HIV"
+									},
+									{
+										"title": "influenza"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "inflammatory diseases"
+					},
+					{
+						"title": "medical ethics"
+					},
+					{
+						"title": "nursing"
+					},
+					{
+						"title": "nutrition",
+						"subtitles": [
+							{
+								"title": "obesity"
+							}
+						]
+					},
+					{
+						"title": "parasitology"
+					},
+					{
+						"title": "personalized medicine"
+					},
+					{
+						"title": "public health",
+						"subtitles": [
+							{
+								"title": "epidemiology",
+								"subtitles": [
+									{
+										"title": "epidemics prevention"
+									},
+									{
+										"title": "modeling of diseases spread"
+									},
+									{
+										"title": "pandemics"
+									},
+									{
+										"title": "zoonosis"
+									}
+								]
+							},
+							{
+								"title": "occupational health"
+							}
+						]
+					},
+					{
+						"title": "social biomedical sciences",
+						"subtitles": [
+							{
+								"title": "family planning"
+							},
+							{
+								"title": "sexual health"
+							}
+						]
+					},
+					{
+						"title": "speech-language pathology"
+					},
+					{
+						"title": "sport and fitness sciences"
+					},
+					{
+						"title": "substance abuse"
+					},
+					{
+						"title": "tropical medicine"
+					}
+				]
+			},
+			{
+				"title": "medical biotechnology",
+				"subtitles": [
+					{
+						"title": "cells technologies",
+						"subtitles": [
+							{
+								"title": "stem cells"
+							}
+						]
+					},
+					{
+						"title": "genetic engineering",
+						"subtitles": [
+							{
+								"title": "gene therapy"
+							}
+						]
+					},
+					{
+						"title": "implants",
+						"subtitles": [
+							{
+								"title": "artificial bone"
+							},
+							{
+								"title": "breast implants"
+							}
+						]
+					},
+					{
+						"title": "nanomedicine"
+					},
+					{
+						"title": "tissue engineering",
+						"subtitles": [
+							{
+								"title": "artificial pancreas",
+								"subtitles": [
+									{
+										"title": "continuous glucose monitors"
+									}
+								]
+							},
+							{
+								"title": "bioartificial liver"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "other medical sciences",
+				"subtitles": [
+					{
+						"title": "forensic sciences"
+					},
+					{
+						"title": "history of medicine"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "natural sciences",
+		"subtitles": [
+			{
+				"title": "biological sciences",
+				"subtitles": [
+					{
+						"title": "biochemistry",
+						"subtitles": [
+							{
+								"title": "biomolecules",
+								"subtitles": [
+									{
+										"title": "carbohydrates"
+									},
+									{
+										"title": "lipids"
+									},
+									{
+										"title": "nucleic acids"
+									},
+									{
+										"title": "proteins",
+										"subtitles": [
+											{
+												"title": "enzymes"
+											},
+											{
+												"title": "protein folding"
+											},
+											{
+												"title": "proteomics"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "biodiversity conservation"
+					},
+					{
+						"title": "biological behavioural sciences",
+						"subtitles": [
+							{
+								"title": "behavioural ecology"
+							},
+							{
+								"title": "ethology",
+								"subtitles": [
+									{
+										"title": "biological interactions"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "biological morphology",
+						"subtitles": [
+							{
+								"title": "comparative morphology"
+							},
+							{
+								"title": "functional morphology"
+							}
+						]
+					},
+					{
+						"title": "biophysics"
+					},
+					{
+						"title": "botany",
+						"subtitles": [
+							{
+								"title": "dendrology"
+							}
+						]
+					},
+					{
+						"title": "cell biology",
+						"subtitles": [
+							{
+								"title": "cell metabolism"
+							},
+							{
+								"title": "cell polarity"
+							},
+							{
+								"title": "cell signaling"
+							}
+						]
+					},
+					{
+						"title": "developmental biology"
+					},
+					{
+						"title": "ecology",
+						"subtitles": [
+							{
+								"title": "ecosystems",
+								"subtitles": [
+									{
+										"title": "coastal ecosystems"
+									},
+									{
+										"title": "freshwater ecosystems"
+									}
+								]
+							},
+							{
+								"title": "evolutionary ecology"
+							},
+							{
+								"title": "invasive species"
+							},
+							{
+								"title": "landscape ecology"
+							}
+						]
+					},
+					{
+						"title": "evolutionary biology"
+					},
+					{
+						"title": "freshwater biology"
+					},
+					{
+						"title": "genetics",
+						"subtitles": [
+							{
+								"title": "chromosomes"
+							},
+							{
+								"title": "DNA"
+							},
+							{
+								"title": "epigenetics"
+							},
+							{
+								"title": "genomes",
+								"subtitles": [
+									{
+										"title": "eukaryotic genomes"
+									},
+									{
+										"title": "prokaryotic genomes"
+									},
+									{
+										"title": "viral genomes"
+									}
+								]
+							},
+							{
+								"title": "heredity"
+							},
+							{
+								"title": "mutation",
+								"subtitles": [
+									{
+										"title": "virus mutation"
+									}
+								]
+							},
+							{
+								"title": "nucleotides"
+							},
+							{
+								"title": "RNA"
+							}
+						]
+					},
+					{
+						"title": "histology"
+					},
+					{
+						"title": "marine biology"
+					},
+					{
+						"title": "microbiology",
+						"subtitles": [
+							{
+								"title": "bacteriology"
+							},
+							{
+								"title": "mycology",
+								"subtitles": [
+									{
+										"title": "ethnolichenology"
+									},
+									{
+										"title": "ethnomycology"
+									}
+								]
+							},
+							{
+								"title": "phycology"
+							},
+							{
+								"title": "protozoology"
+							},
+							{
+								"title": "virology"
+							}
+						]
+					},
+					{
+						"title": "molecular biology",
+						"subtitles": [
+							{
+								"title": "molecular evolution"
+							},
+							{
+								"title": "molecular genetics"
+							},
+							{
+								"title": "molecular neuroscience"
+							},
+							{
+								"title": "structural biology"
+							}
+						]
+					},
+					{
+						"title": "neurobiology",
+						"subtitles": [
+							{
+								"title": "cognitive neuroscience"
+							},
+							{
+								"title": "computational neuroscience"
+							}
+						]
+					},
+					{
+						"title": "other biological topics"
+					},
+					{
+						"title": "reproductive biology"
+					},
+					{
+						"title": "synthetic biology"
+					},
+					{
+						"title": "zoology",
+						"subtitles": [
+							{
+								"title": "entomology",
+								"subtitles": [
+									{
+										"title": "apidology"
+									}
+								]
+							},
+							{
+								"title": "ichthyology"
+							},
+							{
+								"title": "invertebrate zoology"
+							},
+							{
+								"title": "mammalogy",
+								"subtitles": [
+									{
+										"title": "cetology"
+									},
+									{
+										"title": "primatology"
+									}
+								]
+							},
+							{
+								"title": "ornithology"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "chemical sciences",
+				"subtitles": [
+					{
+						"title": "analytical chemistry",
+						"subtitles": [
+							{
+								"title": "calorimetry"
+							},
+							{
+								"title": "mass spectrometry"
+							},
+							{
+								"title": "quantitative analysis",
+								"subtitles": [
+									{
+										"title": "volumetric analysis"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "catalysis",
+						"subtitles": [
+							{
+								"title": "biocatalysis"
+							},
+							{
+								"title": "electrocatalysis"
+							},
+							{
+								"title": "photocatalysis"
+							}
+						]
+					},
+					{
+						"title": "electrochemistry",
+						"subtitles": [
+							{
+								"title": "bioelectrochemistry",
+								"subtitles": [
+									{
+										"title": "electroporation"
+									}
+								]
+							},
+							{
+								"title": "electric batteries"
+							},
+							{
+								"title": "electrolysis"
+							},
+							{
+								"title": "electrophoresis"
+							}
+						]
+					},
+					{
+						"title": "inorganic chemistry",
+						"subtitles": [
+							{
+								"title": "alkali metals"
+							},
+							{
+								"title": "alkaline earth metals"
+							},
+							{
+								"title": "bioinorganic chemistry"
+							},
+							{
+								"title": "halogens"
+							},
+							{
+								"title": "inorganic compounds"
+							},
+							{
+								"title": "metalloids"
+							},
+							{
+								"title": "noble gases"
+							},
+							{
+								"title": "organometallic chemistry"
+							},
+							{
+								"title": "post-transition metals"
+							},
+							{
+								"title": "transition metals"
+							}
+						]
+					},
+					{
+						"title": "nuclear chemistry",
+						"subtitles": [
+							{
+								"title": "radiation chemistry"
+							},
+							{
+								"title": "radiochemistry"
+							}
+						]
+					},
+					{
+						"title": "organic chemistry",
+						"subtitles": [
+							{
+								"title": "alcohols"
+							},
+							{
+								"title": "aldehydes"
+							},
+							{
+								"title": "aliphatic compounds"
+							},
+							{
+								"title": "amines"
+							},
+							{
+								"title": "aromatic compounds"
+							},
+							{
+								"title": "heterocyclic compounds"
+							},
+							{
+								"title": "hydrocarbons"
+							},
+							{
+								"title": "ketones"
+							},
+							{
+								"title": "organic acids"
+							},
+							{
+								"title": "organic reactions"
+							},
+							{
+								"title": "organohalogen compounds"
+							},
+							{
+								"title": "volatile organic compounds"
+							}
+						]
+					},
+					{
+						"title": "physical chemistry",
+						"subtitles": [
+							{
+								"title": "photochemistry"
+							},
+							{
+								"title": "quantum chemistry"
+							},
+							{
+								"title": "thermochemistry"
+							}
+						]
+					},
+					{
+						"title": "polymer sciences",
+						"subtitles": [
+							{
+								"title": "polyurethane"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "computer and information sciences",
+				"subtitles": [
+					{
+						"title": "artificial intelligence",
+						"subtitles": [
+							{
+								"title": "computational creativity"
+							},
+							{
+								"title": "computational intelligence"
+							},
+							{
+								"title": "computer vision"
+							},
+							{
+								"title": "expert systems"
+							},
+							{
+								"title": "heuristic programming"
+							},
+							{
+								"title": "machine learning",
+								"subtitles": [
+									{
+										"title": "deep learning"
+									},
+									{
+										"title": "reinforcement learning"
+									},
+									{
+										"title": "supervised learning"
+									},
+									{
+										"title": "transfer learning"
+									},
+									{
+										"title": "unsupervised learning"
+									}
+								]
+							},
+							{
+								"title": "pattern recognition"
+							}
+						]
+					},
+					{
+						"title": "computational science",
+						"subtitles": [
+							{
+								"title": "multiphysics"
+							}
+						]
+					},
+					{
+						"title": "computer security",
+						"subtitles": [
+							{
+								"title": "access control"
+							},
+							{
+								"title": "cryptography"
+							},
+							{
+								"title": "data protection"
+							},
+							{
+								"title": "malicious software"
+							},
+							{
+								"title": "network security"
+							}
+						]
+					},
+					{
+						"title": "data science",
+						"subtitles": [
+							{
+								"title": "big data"
+							},
+							{
+								"title": "business intelligence"
+							},
+							{
+								"title": "data exchange"
+							},
+							{
+								"title": "data mining"
+							},
+							{
+								"title": "data processing"
+							},
+							{
+								"title": "natural language processing"
+							}
+						]
+					},
+					{
+						"title": "databases",
+						"subtitles": [
+							{
+								"title": "non-relational databases"
+							},
+							{
+								"title": "relational databases"
+							}
+						]
+					},
+					{
+						"title": "internet",
+						"subtitles": [
+							{
+								"title": "internet access"
+							},
+							{
+								"title": "internet of things"
+							},
+							{
+								"title": "internet protocols"
+							},
+							{
+								"title": "semantic web"
+							},
+							{
+								"title": "transport layer"
+							},
+							{
+								"title": "web development"
+							},
+							{
+								"title": "world wide web",
+								"subtitles": [
+									{
+										"title": "web accessibility"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "knowledge engineering",
+						"subtitles": [
+							{
+								"title": "ontology"
+							}
+						]
+					},
+					{
+						"title": "software",
+						"subtitles": [
+							{
+								"title": "software applications",
+								"subtitles": [
+									{
+										"title": "simulation software"
+									},
+									{
+										"title": "system software",
+										"subtitles": [
+											{
+												"title": "device drivers"
+											},
+											{
+												"title": "operating systems"
+											}
+										]
+									},
+									{
+										"title": "video games"
+									},
+									{
+										"title": "virtual reality"
+									}
+								]
+							},
+							{
+								"title": "software development"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "earth and related environmental sciences",
+				"subtitles": [
+					{
+						"title": "atmospheric sciences",
+						"subtitles": [
+							{
+								"title": "climatology",
+								"subtitles": [
+									{
+										"title": "climatic changes",
+										"subtitles": [
+											{
+												"title": "el niño"
+											},
+											{
+												"title": "north atlantic oscillation"
+											}
+										]
+									},
+									{
+										"title": "climatic zones"
+									},
+									{
+										"title": "dendrochronology"
+									},
+									{
+										"title": "dendroclimatology"
+									}
+								]
+							},
+							{
+								"title": "meteorology",
+								"subtitles": [
+									{
+										"title": "atmospheric circulation",
+										"subtitles": [
+											{
+												"title": "atmospheric turbulence"
+											}
+										]
+									},
+									{
+										"title": "atmospheric pressure"
+									},
+									{
+										"title": "biosphera"
+									},
+									{
+										"title": "solar radiation"
+									},
+									{
+										"title": "troposphere"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "environmental sciences",
+						"subtitles": [
+							{
+								"title": "ozone depletion"
+							},
+							{
+								"title": "pollution"
+							},
+							{
+								"title": "sustainability sciences"
+							}
+						]
+					},
+					{
+						"title": "geochemistry",
+						"subtitles": [
+							{
+								"title": "biogeochemistry"
+							},
+							{
+								"title": "cosmochemistry"
+							},
+							{
+								"title": "isotope geochemistry"
+							},
+							{
+								"title": "organic geochemistry"
+							}
+						]
+					},
+					{
+						"title": "geology",
+						"subtitles": [
+							{
+								"title": "geochronology"
+							},
+							{
+								"title": "geomorphology",
+								"subtitles": [
+									{
+										"title": "speleology"
+									}
+								]
+							},
+							{
+								"title": "lithology"
+							},
+							{
+								"title": "mineralogy",
+								"subtitles": [
+									{
+										"title": "crystallography"
+									}
+								]
+							},
+							{
+								"title": "petrology",
+								"subtitles": [
+									{
+										"title": "igneous petrology"
+									},
+									{
+										"title": "metamorphic petrology"
+									},
+									{
+										"title": "petrography"
+									},
+									{
+										"title": "sedimentary petrology"
+									}
+								]
+							},
+							{
+								"title": "sedimentology"
+							},
+							{
+								"title": "seismology",
+								"subtitles": [
+									{
+										"title": "microseisms"
+									},
+									{
+										"title": "plate tectonics"
+									}
+								]
+							},
+							{
+								"title": "volcanology"
+							}
+						]
+					},
+					{
+						"title": "geophysics"
+					},
+					{
+						"title": "hydrology",
+						"subtitles": [
+							{
+								"title": "drainage basins"
+							},
+							{
+								"title": "ecohydrology"
+							},
+							{
+								"title": "hydrogeology"
+							},
+							{
+								"title": "hydroinformatics"
+							},
+							{
+								"title": "hydrometeorology"
+							},
+							{
+								"title": "isotope hydrology"
+							},
+							{
+								"title": "limnology"
+							}
+						]
+					},
+					{
+						"title": "oceanography",
+						"subtitles": [
+							{
+								"title": "ocean chemistry"
+							},
+							{
+								"title": "physical oceanography"
+							}
+						]
+					},
+					{
+						"title": "palaeontology",
+						"subtitles": [
+							{
+								"title": "biostratigraphy"
+							},
+							{
+								"title": "paleoclimatology"
+							},
+							{
+								"title": "paleoecology"
+							},
+							{
+								"title": "palynology"
+							}
+						]
+					},
+					{
+						"title": "physical geography",
+						"subtitles": [
+							{
+								"title": "cartography",
+								"subtitles": [
+									{
+										"title": "geographic information systems"
+									}
+								]
+							},
+							{
+								"title": "coastal geography"
+							},
+							{
+								"title": "glaciology",
+								"subtitles": [
+									{
+										"title": "glacial geology"
+									}
+								]
+							},
+							{
+								"title": "natural disasters"
+							}
+						]
+					},
+					{
+						"title": "soil sciences",
+						"subtitles": [
+							{
+								"title": "edaphology"
+							},
+							{
+								"title": "land-based treatment"
+							},
+							{
+								"title": "pedology"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "mathematics",
+				"subtitles": [
+					{
+						"title": "applied mathematics",
+						"subtitles": [
+							{
+								"title": "dynamical systems"
+							},
+							{
+								"title": "game theory"
+							},
+							{
+								"title": "mathematical model"
+							},
+							{
+								"title": "mathematical physics"
+							},
+							{
+								"title": "numerical analysis"
+							},
+							{
+								"title": "statistics and probability",
+								"subtitles": [
+									{
+										"title": "bayesian statistics"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "pure mathematics",
+						"subtitles": [
+							{
+								"title": "algebra",
+								"subtitles": [
+									{
+										"title": "algebraic geometry"
+									},
+									{
+										"title": "commutative algebra"
+									},
+									{
+										"title": "linear algebra"
+									}
+								]
+							},
+							{
+								"title": "arithmetics",
+								"subtitles": [
+									{
+										"title": "L-functions"
+									},
+									{
+										"title": "logarithmic functions"
+									},
+									{
+										"title": "prime numbers"
+									}
+								]
+							},
+							{
+								"title": "discrete mathematics",
+								"subtitles": [
+									{
+										"title": "combinatorics"
+									},
+									{
+										"title": "graph theory"
+									},
+									{
+										"title": "mathematical logic"
+									}
+								]
+							},
+							{
+								"title": "geometry"
+							},
+							{
+								"title": "mathematical analysis",
+								"subtitles": [
+									{
+										"title": "complex analysis"
+									},
+									{
+										"title": "differential equations",
+										"subtitles": [
+											{
+												"title": "partial differential equations"
+											}
+										]
+									},
+									{
+										"title": "fourier analysis"
+									},
+									{
+										"title": "functional equations"
+									}
+								]
+							},
+							{
+								"title": "topology",
+								"subtitles": [
+									{
+										"title": "algebraic topology"
+									},
+									{
+										"title": "computational topology"
+									},
+									{
+										"title": "knot theory"
+									},
+									{
+										"title": "symplectic topology"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "other natural sciences"
+			},
+			{
+				"title": "physical sciences",
+				"subtitles": [
+					{
+						"title": "acoustics",
+						"subtitles": [
+							{
+								"title": "ultrasound"
+							}
+						]
+					},
+					{
+						"title": "astronomy",
+						"subtitles": [
+							{
+								"title": "astrochemistry"
+							},
+							{
+								"title": "astrophysics",
+								"subtitles": [
+									{
+										"title": "black holes"
+									},
+									{
+										"title": "dark matter"
+									}
+								]
+							},
+							{
+								"title": "extragalactic astronomy"
+							},
+							{
+								"title": "galactic astronomy",
+								"subtitles": [
+									{
+										"title": "solar astronomy"
+									},
+									{
+										"title": "solar physics"
+									}
+								]
+							},
+							{
+								"title": "history of astronomy"
+							},
+							{
+								"title": "observational astronomy",
+								"subtitles": [
+									{
+										"title": "gamma-ray astronomy"
+									},
+									{
+										"title": "gravitational waves"
+									},
+									{
+										"title": "infrared astronomy"
+									},
+									{
+										"title": "optical astronomy"
+									},
+									{
+										"title": "radio astronomy"
+									},
+									{
+										"title": "x-ray astronomy"
+									}
+								]
+							},
+							{
+								"title": "physical cosmology",
+								"subtitles": [
+									{
+										"title": "big bang"
+									},
+									{
+										"title": "galaxy evolution"
+									}
+								]
+							},
+							{
+								"title": "planetary sciences",
+								"subtitles": [
+									{
+										"title": "asteroids"
+									},
+									{
+										"title": "celestial mechanics"
+									},
+									{
+										"title": "comets"
+									},
+									{
+										"title": "meteorites"
+									},
+									{
+										"title": "meteors"
+									},
+									{
+										"title": "natural satellites"
+									},
+									{
+										"title": "planetary geology"
+									},
+									{
+										"title": "planets",
+										"subtitles": [
+											{
+												"title": "exoplanetology"
+											},
+											{
+												"title": "giant planets",
+												"subtitles": [
+													{
+														"title": "gas giants"
+													},
+													{
+														"title": "ice giants"
+													},
+													{
+														"title": "super-Earths"
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"title": "space exploration"
+							},
+							{
+								"title": "stellar astronomy",
+								"subtitles": [
+									{
+										"title": "asteroseismology"
+									},
+									{
+										"title": "neutron stars"
+									},
+									{
+										"title": "supernova"
+									},
+									{
+										"title": "white dwarfs"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "atomic physics"
+					},
+					{
+						"title": "classical mechanics",
+						"subtitles": [
+							{
+								"title": "fluid mechanics",
+								"subtitles": [
+									{
+										"title": "fluid dynamics",
+										"subtitles": [
+											{
+												"title": "computational fluid dynamics"
+											}
+										]
+									},
+									{
+										"title": "fluid statics"
+									},
+									{
+										"title": "microfluidics"
+									}
+								]
+							},
+							{
+								"title": "solid mechanics"
+							},
+							{
+								"title": "statistical mechanics"
+							}
+						]
+					},
+					{
+						"title": "condensed matter physics",
+						"subtitles": [
+							{
+								"title": "bose-einstein condensates"
+							},
+							{
+								"title": "mesoscopic physics"
+							},
+							{
+								"title": "quantum gases"
+							},
+							{
+								"title": "soft matter physics"
+							},
+							{
+								"title": "solid-state physics"
+							}
+						]
+					},
+					{
+						"title": "electromagnetism and electronics",
+						"subtitles": [
+							{
+								"title": "electromagnetism"
+							},
+							{
+								"title": "microelectronics"
+							},
+							{
+								"title": "optoelectronics"
+							},
+							{
+								"title": "semiconductivity"
+							},
+							{
+								"title": "spintronics",
+								"subtitles": [
+									{
+										"title": "molecular spintronics"
+									}
+								]
+							},
+							{
+								"title": "superconductivity"
+							}
+						]
+					},
+					{
+						"title": "molecular and chemical physics"
+					},
+					{
+						"title": "nuclear physics",
+						"subtitles": [
+							{
+								"title": "nuclear decay"
+							},
+							{
+								"title": "nuclear fission"
+							},
+							{
+								"title": "nuclear fusion"
+							}
+						]
+					},
+					{
+						"title": "optics",
+						"subtitles": [
+							{
+								"title": "cavity optomechanics"
+							},
+							{
+								"title": "fibre optics"
+							},
+							{
+								"title": "laser physics",
+								"subtitles": [
+									{
+										"title": "pulsed lasers"
+									},
+									{
+										"title": "ultrafast lasers"
+									},
+									{
+										"title": "ultraviolet lasers"
+									}
+								]
+							},
+							{
+								"title": "microscopy",
+								"subtitles": [
+									{
+										"title": "confocal microscopy"
+									},
+									{
+										"title": "electron microscopy"
+									},
+									{
+										"title": "fluorescence lifetime imaging"
+									},
+									{
+										"title": "scanning tunneling microscopy"
+									},
+									{
+										"title": "super resolution microscopy"
+									}
+								]
+							},
+							{
+								"title": "nonlinear optics"
+							},
+							{
+								"title": "spectroscopy",
+								"subtitles": [
+									{
+										"title": "absorption spectroscopy"
+									},
+									{
+										"title": "emission spectroscopy"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "plasma physics"
+					},
+					{
+						"title": "quantum physics",
+						"subtitles": [
+							{
+								"title": "quantum field theory"
+							},
+							{
+								"title": "quantum optics"
+							}
+						]
+					},
+					{
+						"title": "relativistic mechanics"
+					},
+					{
+						"title": "theoretical physics",
+						"subtitles": [
+							{
+								"title": "particle physics",
+								"subtitles": [
+									{
+										"title": "fermions"
+									},
+									{
+										"title": "gluons"
+									},
+									{
+										"title": "higgs bosons"
+									},
+									{
+										"title": "leptons"
+									},
+									{
+										"title": "neutrinos"
+									},
+									{
+										"title": "particle accelerator"
+									},
+									{
+										"title": "photons"
+									},
+									{
+										"title": "quarks"
+									},
+									{
+										"title": "w bosons"
+									},
+									{
+										"title": "z bosons"
+									}
+								]
+							},
+							{
+								"title": "string theory"
+							}
+						]
+					},
+					{
+						"title": "thermodynamics"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "social sciences",
+		"subtitles": [
+			{
+				"title": "economics and business",
+				"subtitles": [
+					{
+						"title": "business and management",
+						"subtitles": [
+							{
+								"title": "business models"
+							},
+							{
+								"title": "commerce",
+								"subtitles": [
+									{
+										"title": "eCommerce"
+									}
+								]
+							},
+							{
+								"title": "employment"
+							},
+							{
+								"title": "entrepreneurship"
+							},
+							{
+								"title": "innovation management"
+							}
+						]
+					},
+					{
+						"title": "economics",
+						"subtitles": [
+							{
+								"title": "bioeconomy"
+							},
+							{
+								"title": "econometrics"
+							},
+							{
+								"title": "health economics",
+								"subtitles": [
+									{
+										"title": "economic impact of epidemics"
+									}
+								]
+							},
+							{
+								"title": "macroeconomics"
+							},
+							{
+								"title": "microeconomics"
+							},
+							{
+								"title": "monetary and finances"
+							},
+							{
+								"title": "political economy"
+							},
+							{
+								"title": "production economics",
+								"subtitles": [
+									{
+										"title": "productivity"
+									}
+								]
+							},
+							{
+								"title": "sustainable economy"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "educational sciences",
+				"subtitles": [
+					{
+						"title": "didactics"
+					},
+					{
+						"title": "inclusive education"
+					},
+					{
+						"title": "pedagogy",
+						"subtitles": [
+							{
+								"title": "active learning"
+							},
+							{
+								"title": "inquiry based learning"
+							}
+						]
+					},
+					{
+						"title": "special education"
+					}
+				]
+			},
+			{
+				"title": "law",
+				"subtitles": [
+					{
+						"title": "admiralty law"
+					},
+					{
+						"title": "constitutional law"
+					},
+					{
+						"title": "criminology"
+					},
+					{
+						"title": "human rights",
+						"subtitles": [
+							{
+								"title": "human rights law",
+								"subtitles": [
+									{
+										"title": "national state of emergency",
+										"subtitles": [
+											{
+												"title": "pandemic risks"
+											}
+										]
+									}
+								]
+							},
+							{
+								"title": "human rights violations",
+								"subtitles": [
+									{
+										"title": "human trafficking"
+									},
+									{
+										"title": "political violence"
+									},
+									{
+										"title": "sexual violence"
+									}
+								]
+							},
+							{
+								"title": "international protection of human rights"
+							},
+							{
+								"title": "regional human rights"
+							}
+						]
+					},
+					{
+						"title": "international law"
+					},
+					{
+						"title": "law enforcement"
+					},
+					{
+						"title": "penology"
+					}
+				]
+			},
+			{
+				"title": "media and communications",
+				"subtitles": [
+					{
+						"title": "graphic design"
+					},
+					{
+						"title": "journalism"
+					}
+				]
+			},
+			{
+				"title": "other social sciences"
+			},
+			{
+				"title": "political sciences",
+				"subtitles": [
+					{
+						"title": "government systems",
+						"subtitles": [
+							{
+								"title": "democracy"
+							},
+							{
+								"title": "e-governance"
+							}
+						]
+					},
+					{
+						"title": "political communication"
+					},
+					{
+						"title": "political policies",
+						"subtitles": [
+							{
+								"title": "civil society",
+								"subtitles": [
+									{
+										"title": "nongovernmental organizations"
+									}
+								]
+							},
+							{
+								"title": "foreign policy"
+							},
+							{
+								"title": "public policies"
+							}
+						]
+					},
+					{
+						"title": "political transitions",
+						"subtitles": [
+							{
+								"title": "armed conflicts"
+							},
+							{
+								"title": "elections"
+							},
+							{
+								"title": "revolutions"
+							},
+							{
+								"title": "riots"
+							},
+							{
+								"title": "terrorism"
+							}
+						]
+					},
+					{
+						"title": "public administration",
+						"subtitles": [
+							{
+								"title": "bureaucracy"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "psychology",
+				"subtitles": [
+					{
+						"title": "behavioural psychology"
+					},
+					{
+						"title": "cognitive psychology",
+						"subtitles": [
+							{
+								"title": "mental processes"
+							}
+						]
+					},
+					{
+						"title": "developmental psychology"
+					},
+					{
+						"title": "ergonomics"
+					},
+					{
+						"title": "psycholinguistics"
+					},
+					{
+						"title": "psychotherapy",
+						"subtitles": [
+							{
+								"title": "psychoanalysis"
+							}
+						]
+					},
+					{
+						"title": "social psychology"
+					}
+				]
+			},
+			{
+				"title": "social geography",
+				"subtitles": [
+					{
+						"title": "cultural and economic geography"
+					},
+					{
+						"title": "transport",
+						"subtitles": [
+							{
+								"title": "electric vehicles"
+							},
+							{
+								"title": "freight transport"
+							},
+							{
+								"title": "navigation systems",
+								"subtitles": [
+									{
+										"title": "inertial navigation system"
+									},
+									{
+										"title": "satellite navigation system",
+										"subtitles": [
+											{
+												"title": "global navigation satellite system"
+											}
+										]
+									}
+								]
+							},
+							{
+								"title": "public transport"
+							},
+							{
+								"title": "social aspects of transport"
+							},
+							{
+								"title": "sustainable transport",
+								"subtitles": [
+									{
+										"title": "intelligent transport systems"
+									}
+								]
+							},
+							{
+								"title": "transport planning",
+								"subtitles": [
+									{
+										"title": "air traffic management"
+									}
+								]
+							}
+						]
+					},
+					{
+						"title": "urban studies"
+					}
+				]
+			},
+			{
+				"title": "sociology",
+				"subtitles": [
+					{
+						"title": "anthropology",
+						"subtitles": [
+							{
+								"title": "cultural anthropology",
+								"subtitles": [
+									{
+										"title": "folklore"
+									}
+								]
+							},
+							{
+								"title": "ethnology"
+							},
+							{
+								"title": "physical anthropology",
+								"subtitles": [
+									{
+										"title": "paleoanthropology"
+									}
+								]
+							},
+							{
+								"title": "science and technology studies"
+							},
+							{
+								"title": "social anthropology"
+							}
+						]
+					},
+					{
+						"title": "demography",
+						"subtitles": [
+							{
+								"title": "census"
+							},
+							{
+								"title": "fertility"
+							},
+							{
+								"title": "human migrations"
+							},
+							{
+								"title": "mortality"
+							}
+						]
+					},
+					{
+						"title": "family studies"
+					},
+					{
+						"title": "gender studies",
+						"subtitles": [
+							{
+								"title": "gender equality"
+							},
+							{
+								"title": "women’s studies"
+							}
+						]
+					},
+					{
+						"title": "globalization"
+					},
+					{
+						"title": "governance",
+						"subtitles": [
+							{
+								"title": "crisis management",
+								"subtitles": [
+									{
+										"title": "flood risk management"
+									},
+									{
+										"title": "seismic risk management"
+									}
+								]
+							},
+							{
+								"title": "public services"
+							},
+							{
+								"title": "taxation"
+							}
+						]
+					},
+					{
+						"title": "ideologies"
+					},
+					{
+						"title": "industrial relations",
+						"subtitles": [
+							{
+								"title": "automation"
+							}
+						]
+					},
+					{
+						"title": "social issues",
+						"subtitles": [
+							{
+								"title": "corruption"
+							},
+							{
+								"title": "social inequalities",
+								"subtitles": [
+									{
+										"title": "age inequality"
+									},
+									{
+										"title": "gender inequality"
+									},
+									{
+										"title": "racial inequality"
+									}
+								]
+							},
+							{
+								"title": "unemployment"
+							}
+						]
+					},
+					{
+						"title": "social work"
+					}
+				]
+			}
+		]
+	}
+]
