@@ -1,10 +1,11 @@
 # data_ingest
 Jupyter notebooks with the automatized process to obtain the necessary databases.
 
-## Research Portal: downloading the resources
-- First, install GNU wget in your terminal.
-- Execute the following command to download all the resources from UC3M Research Portal:
-```bash
-$ wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --wait=1 --random-wait --domains researchportal.uc3m.es https://researchportal.uc3m.es/display/inv21546
-```
+## UC3M Research Portal
+See the specific documentation [here](https://github.com/AI4University/data_ingest/blob/7110bba15f94419ccd75b697006782d9220cba01/UC3M%20ResearchPortal/README.md).
+
+### Documentation includes:
+1. How to download the .html files locally
+2. Contents of the repository
+3. Final Outputs
   
