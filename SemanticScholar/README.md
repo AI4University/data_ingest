@@ -5,6 +5,8 @@ Semantic Scholar is a search engine for research articles powered by the Allen I
 
 ## 1. Download raw data
 
+We need first to download the raw information using Semantic Scholar API. You need to request a token for this.
+
 - Copy and rename `config_default.cf` into `config.cf` adjusting options as needed.
    * `dir_data` is the path to the directory where you want to save the raw data
    * `S2_API_Key` are your credentials for downloading the Semantic Scholar dataset. You should get in contact with the Allen Institute to get them
