@@ -3,7 +3,7 @@ This repository provides code to save, import and process [SemanticScholar](http
 
 Semantic Scholar is a search engine for research articles powered by the Allen Institute for Artificial Intelligence.
 
-## 1. Download raw data
+## 1. Download raw data
 
 We need first to download the raw information using Semantic Scholar API. You need to request a token for this.
 
