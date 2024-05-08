@@ -1,4 +1,0 @@
-
-Los datasets en hdfs se enecuntran en:
-
-hdfs -ls /export/data_ml4ds/AI4U/Datasets/match_SematicScholar_ResearchPortal
