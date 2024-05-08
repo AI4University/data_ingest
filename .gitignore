@@ -11,9 +11,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Ignore all sub-directories
-*/
-
 # Keep directories
 !dbManager/
 !dbBase/
