@@ -25,4 +25,5 @@ venv.bak/
 *.docx
 
 # Mounting of files remotely on Mac
-*DS_Store
+.DS_Store
+
