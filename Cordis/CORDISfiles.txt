@@ -1,10 +1,10 @@
 https://cordis.europa.eu/data/cordis-HORIZONprojects-xlsx.zip
 https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip
 https://cordis.europa.eu/data/cordis-HORIZONprojectPublications-xlsx.zip
+https://cordis.europa.eu/data/cordis-HORIZONprojectPublications-xml.zip
 https://cordis.europa.eu/data/cordis-HORIZONprojectDeliverables-xlsx.zip
 https://cordis.europa.eu/data/cordis-HORIZONreports-xlsx.zip
 https://cordis.europa.eu/data/cordis-HORIZONreports-xml.zip
-
 
 https://cordis.europa.eu/data/projectIrps_h2020.xlsx
 https://cordis.europa.eu/data/cordis-h2020-erc-pi.xlsx
@@ -30,3 +30,5 @@ https://cordis.europa.eu/data/reference/cordisref-H2020topics-xlsx.zip
 http://cordis.europa.eu/data/reference/cordisref-organizationActivityType.xls
 https://cordis.europa.eu/data/reference/cordisref-HORIZONprogrammes-xlsx.zip
 https://cordis.europa.eu/data/reference/cordisref-HORIZONtopics-xlsx.zip
+
+
